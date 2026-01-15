@@ -27,7 +27,7 @@ Le dataset contient 17 379 observations avec les variables suivantes :
 - **windspeed** : Vitesse du vent
 
 ### Variable cible
-- **registered** : Nombre de locations d'usagers abonnés
+- **count** – nombre total de locations de vélos 
 
 ## 🛠️ Technologies utilisées
 
